@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BeatMake</string>
+    <string name="channel">CH</string>
+    <string name="sample_title_hint">Enter a title for sample</string>
+    <string name="save_button_text">Save</string>
+    <string name="delete_sample">Do you want to delete this sample?</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="overwrite_message">A sample with that name exist. Do you want to overwrite?</string>
+    <string name="overwrite">Overwrite</string>
+</resources>
